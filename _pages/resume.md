@@ -84,6 +84,14 @@ nav: true
 	<h2>Awards</h2>
 		<ul>
 			<li>
+				<span>
+						<strong>Best Paper Award, ICCA 2022</strong>
+				</span>
+				<span>
+					(2022)
+				</span>
+			</li>
+			<li>
 				<div class="post-title">
 						<span>
 								<strong>Infosys Foundation Grant</strong>
