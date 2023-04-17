@@ -6,7 +6,7 @@ title: Vaishnavi Sundararajan # the website title (if blank, full name will be u
 first_name: Vaishnavi
 middle_name: 
 last_name: Sundararajan
-email: vasundar@ucsc.edu
+email: vaishnavi@cse.iitd.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Vaishnavi Sundararajan's Website
 footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Built using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme as reference. &nbsp;
