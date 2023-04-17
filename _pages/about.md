@@ -10,8 +10,8 @@ profile:
   image: me.jpg
   imgalt: Test alt
   address: >
-		<p>Indian Institute of Technology Delhi</p>
-		<p>Hauz Khas, New Delhi 110 016.</p>
+    <p>Indian Institute of Technology Delhi</p>
+    <p>Hauz Khas, New Delhi 110 016.</p>
 
 news: false  # includes a list of news items # VNOTE: FIX THIS!!!
 selected_papers: true # includes a list of papers marked as "selected={true}"
