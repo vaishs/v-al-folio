@@ -19,7 +19,7 @@ nav: true
 					</a>
 				</div>
 		<br>
-		 <strong><sup>&#42;</sup></strong> indicates equal first-author contribution. 
+		 <!-- <strong><sup>&#42;</sup></strong> indicates equal first-author contribution.  -->
 			<p id="demo"></p>
 </div>
 
