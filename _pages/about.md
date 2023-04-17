@@ -10,10 +10,10 @@ profile:
   image: me.jpg
   imgalt: Test alt
   address: >
-		<p>424 Block IIA Bharti Building</p>
+    <p>424 Block IIA Bharti Building</p>
     <p>Indian Institute of Technology Delhi</p>
     <p>Hauz Khas, New Delhi 110 016.</p>
-		<p>011-26591292</p>
+    <p>011-26591292</p>
 
 news: false  # includes a list of news items # VNOTE: FIX THIS!!!
 selected_papers: true # includes a list of papers marked as "selected={true}"
