@@ -9,28 +9,28 @@ nav: true
 <!-- Experience --><!-- style="background-color: lighten(#053B08, 25%);"  -->
 <div id="exp" class="col-lg-10 cardstack mt-5 mt-md-4">
 		<h2>Experience</h2>
-		<div class="item pb-5 pb-md-4">
-				<span class="resum item-label rounded-pill">
-						Jan 2023 &ndash; Mar 2023
-				</span>
-				<a id="cmipda" href="#cmipd" data-toggle="collapse" aria-expanded="false" aria-controls="cmipd" class="rounded-circle" style="color: #fff; background-color: var(--global-divider-color)" onclick="changeplus('cmipda')">
-							<i id="cmipdaicon" class="fas fa-plus"></i>
-				</a>
-				<div class="card pt-4 pt-md-0 rounded">
-						<div class="card-header" role="tab" id="cmipd-head">
-								<span class="headtext">
-										Postdoctoral Researcher, Chennai Mathematical Institute
-								</span>
-						</div>
-						<div id="cmipd" class="collapse" role="tabpanel" aria-labelledby="cmipd-head">
-								<div class="card-body">
-										<p class="m-0 desctext">
-											Worked on an algorithm for deciding the insecurity problem for security protocols with assertions.
-										</p>
-								</div>
-						</div>
-			</div>
-		</div>
+%		<div class="item pb-5 pb-md-4">
+%				<span class="resum item-label rounded-pill">
+%						Jan 2023 &ndash; Mar 2023
+%				</span>
+%				<a id="cmipda" href="#cmipd" data-toggle="collapse" aria-expanded="false" aria-controls="cmipd" class="rounded-circle" style="color: #fff; background-color: var(--global-divider-color)" onclick="changeplus('cmipda')">
+%							<i id="cmipdaicon" class="fas fa-plus"></i>
+%				</a>
+%				<div class="card pt-4 pt-md-0 rounded">
+%						<div class="card-header" role="tab" id="cmipd-head">
+%								<span class="headtext">
+%										Postdoctoral Researcher, Chennai Mathematical Institute
+%								</span>
+%						</div>
+%						<div id="cmipd" class="collapse" role="tabpanel" aria-labelledby="cmipd-head">
+%								<div class="card-body">
+%										<p class="m-0 desctext">
+%											Worked on an algorithm for deciding the insecurity problem for security protocols with assertions.
+%										</p>
+%								</div>
+%						</div>
+%			</div>
+%		</div>
 		<!-- Divider -->
 		<div class="item pb-5 pb-md-4">
 				<span class="resum item-label rounded-pill">
