@@ -13,7 +13,6 @@ profile:
     <p>424 Block IIA, Bharti Building</p>
 	<p>Indian Institute of Technology Delhi</p>
 	<p>Hauz Khas, New Delhi 110 016.</p>
-	<br>
 	<p>011-26591292</p>
 
 news: false  # includes a list of news items # VNOTE: FIX THIS!!!
