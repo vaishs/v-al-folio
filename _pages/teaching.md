@@ -11,7 +11,7 @@ nav: true
 		</header>
 		<ul style="text-align:left">
 						<li><p>
-							<strong>COL876: Special Topics in Formal Methods</strong> [<a href="../assets/courses/col876-jul23.md" target="_blank">Course page</a>]<br>
+							<strong>COL876: Special Topics in Formal Methods</strong> [<a href="courses/col876-jul23.md" target="_blank">Course page</a>]<br>
 							July 2023 &ndash; Dec 2023, IIT Delhi.<br>
 							Instructor.
 						</p></li>
