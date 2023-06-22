@@ -2,8 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-rank: 6
-nav: true
+nav: false
 ---
 
 <!-- pages/projects.md -->
