@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Courses
 permalink: /projects/
 nav: false
 ---
