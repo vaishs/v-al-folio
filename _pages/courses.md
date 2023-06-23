@@ -8,12 +8,12 @@ nav: false
 <!-- pages/courses.md -->
 <div class="projects">
 <!-- Display courses without categories -->
-  {%- assign sorted_courses = site.course | sort: "importance" -%}
+  <!-- {%- assign sorted_courses = site.course | sort: "importance" -%} -->
   <!-- Generate cards for each project -->
   <!-- {% if page.horizontal -%} -->
   <div class="container">
     <div class="row row-cols-2">
-    {%- for course in sorted_courses -%}
+    {%- for course in site.courses -%}
       {% include courses.html %}
     {%- endfor %}
     </div>
