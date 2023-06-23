@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COL876 - Special Topics in Formal Methods
-description: July 2023 -- December 2023
+description: July 2023 &ndash; December 2023
 # img: assets/img/12.jpg
 importance: 1
 # category: work
