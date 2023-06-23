@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: Service and Outreach
+title: Service
 <!-- description: Professional service -->
 rank: 4
 nav: true

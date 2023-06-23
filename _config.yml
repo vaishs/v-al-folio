@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Vaishnavi Sundararajan's Home Page # the website title (if blank, full name will be used instead)
+title: Vaishnavi's Home Page # the website title (if blank, full name will be used instead)
 first_name: Vaishnavi
 middle_name: 
 last_name: Sundararajan
@@ -233,6 +233,7 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
+  
 
   replace_strings: true
   join_strings: true

@@ -9,7 +9,7 @@
               {%- if site.title == "blank" -%}
 									<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}
 							{%- else -%}
-									{{ site.title }}
+									<strong>{{ site.title }}</strong>
 							{%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}

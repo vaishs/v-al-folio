@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-    <h2> What is this course about? </h2>
+    <h2> <strong>What is this course about?</strong> </h2>
 </header>
 <p>
 Nowadays, we use the internet to do everything from chatting with friends to booking movie tickets to transferring large amounts of money to each other. How does one ensure that these mechanisms (often called "security protocols") are secure (“nobody but me should be able to access my bank account”), private (“nobody should be able to link a payment from my anonymous ethereum wallet to my real life identity”) etc? 
@@ -18,7 +18,7 @@ Nowadays, we use the internet to do everything from chatting with friends to boo
 <br>
 
 <header>
-    <h2> Who should take this course? </h2>
+    <h2> <strong>Who should take this course?</strong> </h2>
 </header>
 <p>
 This course is for you if 
@@ -33,7 +33,7 @@ This course is for you if
 <br>
 
 <header>
-    <h2> Prerequisites </h2>
+    <h2><strong> Prerequisites </strong></h2>
 </header>
 <p> This course is structured such that the first few weeks will be devoted to very theoretical material, upon which the programming part of the course will heavily depend. Grasping the former will require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving induction. Students will also be required to be conversant with basic concepts of syntax/semantics, automata theory, and algorithms. A basic idea of complexity theory is also necessary; notions like reductions and NP-completeness should not seem unfamiliar. You must have taken the following courses at IIT Delhi:
 <ul>
@@ -48,14 +48,14 @@ It will help if you have also taken COL703 (Logic for Computer Science), but thi
 <br>
 
 <header>
-    <h2> Reference Material </h2>
+    <h2><strong> Reference Material </strong></h2>
 </header>
 <p> Mostly notes and papers, some snippets from other published material. TBA.</p>
 
 <br>
 
 <header>
-    <h2> Evaluation Policy </h2>
+    <h2><strong> Evaluation Policy </strong></h2>
 </header>
 <p>
 <ul>

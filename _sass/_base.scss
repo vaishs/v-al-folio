@@ -48,6 +48,10 @@ a.btn {
       color: var(--global-theme-color);
       border-color: var(--global-theme-color);
     }
+  > span {
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
 }
 
 a.btn:hover > span {
@@ -122,7 +126,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    // font-family: monospace;
     p {
       display: inline-block;
       margin: 0;
@@ -539,7 +543,7 @@ footer.sticky-bottom {
 	        color: var(--global-text-color);
 	        background-color: $button-fill-color;
           font-size: 0.7rem;
-          font-weight: 800;
+          font-weight: bolder;
           border: 2px solid $button-edge-color;
           padding-left: 1rem;
           padding-right: 1rem;
