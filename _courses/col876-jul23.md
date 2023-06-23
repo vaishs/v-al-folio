@@ -17,7 +17,7 @@ Nowadays, we use the internet to do everything from chatting with friends to boo
 
 
 <header>
-    <h2> What is this course about? </h2>
+    <h2> Who should take this course? </h2>
 </header>
 <p>
 This course is for you if 
