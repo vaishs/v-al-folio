@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COL876 - Special Topics in Formal Methods
-description: Course webpage for COL876 - Diwali 2023
+description: July 2023 -- December 2023
 # img: assets/img/12.jpg
 importance: 1
 # category: work
