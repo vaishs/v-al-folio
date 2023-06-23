@@ -122,7 +122,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    // font-family: monospace;
+    font-family: monospace;
     p {
       display: inline-block;
       margin: 0;
@@ -535,10 +535,10 @@ footer.sticky-bottom {
         }
       }
       .links {
-        a 
-        .btn {
+        a.btn {
 	        color: var(--global-text-color);
 	        background-color: $button-fill-color;
+          font-size: 0.7rem;
           font-weight: 800;
           border: 2px solid $button-edge-color;
           padding-left: 1rem;
