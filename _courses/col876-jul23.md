@@ -16,10 +16,17 @@ importance: 1
 <header>
     <h2> <strong>What is this course about?</strong> </h2>
 </header>
-<p>
-Nowadays, we use the internet to do everything from chatting with friends to booking movie tickets to transferring large amounts of money to each other. How does one ensure that these cryptographic mechanisms (often called "security protocols") are secure (“nobody but me should be able to access my bank account”), private (“nobody should be able to link a payment from my anonymous ethereum wallet to my real life identity”) etc? 
+
+<p>Nowadays, we use smart devices and the internet to do everything from chatting with friends to booking movie tickets to transferring large amounts of money to each other. How does one ensure that these cryptographic mechanisms (often called "security protocols") are secure (“nobody but me should be able to access my bank account”), private (“nobody should be able to link a payment from my anonymous Ethereum wallet to my real life identity”) etc? 
 </p>
-<p>It has been shown that often, even if the underlying cryptographic mechanisms are assumed to be perfectly correct, security protocols can admit logical flaws. Such attacks have been demonstrated on protocols ranging from those used for e-voting to those used in RFID passports. Formal verification is a technique by which we can comprehensively analyze a security protocol for such bugs. In this course, we will study how to formally model security protocols using various abstract systems, and how to express and verify properties over such models. In addition, since verification by hand is cumbersome and often error-prone, we will study tools that can be used to automate the process. We will also see how this analysis, which is based mostly in abstract logic and theoretical computer science, fits into the engineering workflow of a protocol going from design to deployment, and what challenges arise during this process. While this course concentrates on the formal analysis and verification of security protocols, many of the techniques used here provide a good introduction to the field of formal verification as a whole.</p>
+
+<p>It has been shown that even if the underlying cryptographic mechanisms are assumed to be perfectly correct, security protocols can often admit very problematic logical flaws. Attacks have been demonstrated on critical protocols ranging from those used for e-voting to those used in RFID passports. To get guarantees about safe operation, one can use formal verification, in which we mathematically model these protocols and the desired properties, and see if the model satisfies these properties.
+</p> 
+
+<p>
+In this course, we will study how to formally model security protocols using various abstract systems, and how to express and verify properties over such models. In addition, since verification by hand is cumbersome and often error-prone, we will see how to code up protocols and verify properties using some specialized software. We will also see how this analysis, which is based mostly in abstract logic and theoretical computer science, fits into the engineering workflow of a protocol going from design to deployment, and what challenges arise during this process. While this course concentrates on the formal analysis and verification of security protocols, many of the techniques used here provide a good introduction to the field of formal verification as a whole.
+</p>
+
 
 <br>
 
