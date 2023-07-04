@@ -110,8 +110,8 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
-    permalink: /news/:path/
+      output: true
+      permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -119,7 +119,7 @@ collections:
     output: true
     permalink: /courses/:path/
 
-news_limit: 5
+news_limit: 1
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-04 12:00:00+0530
 inline: true
 ---
 
-A simple inline announcement.
+I'm teaching COL876 (Special Topics in Formal Methods) this coming semester. See more details <a href="../courses/col876-jul23" target="_blank">here</a>. 

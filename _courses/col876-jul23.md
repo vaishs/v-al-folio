@@ -19,7 +19,7 @@ importance: 1
 <p>
 Nowadays, we use the internet to do everything from chatting with friends to booking movie tickets to transferring large amounts of money to each other. How does one ensure that these cryptographic mechanisms (often called "security protocols") are secure (“nobody but me should be able to access my bank account”), private (“nobody should be able to link a payment from my anonymous ethereum wallet to my real life identity”) etc? 
 </p>
-<p>Formal verification is a technique by which we can comprehensively analyze a security protocol for bugs, and be assured that the protocol does satisfy the guarantees required of it. In this course, we will study how to formally model security protocols using various abstract systems, and how to express and verify properties over such models. In addition, since verification by hand is cumbersome and often error-prone, we will study tools that can be used to automate the process. We will study how this analysis, which is based mostly in abstract logic and theoretical computer science, fits into the engineering workflow of a protocol going from design to deployment, and what challenges arise during this process. While this course concentrates on the formal analysis and verification of security protocols, many of the techniques used here provide a good introduction to the field of formal verification as a whole.</p>
+<p>It has been shown that often, even if the underlying cryptographic mechanisms are assumed to be perfectly correct, security protocols can admit logical flaws. Such attacks have been demonstrated on protocols ranging from those used for e-voting to those used in RFID passports. Formal verification is a technique by which we can comprehensively analyze a security protocol for such bugs. In this course, we will study how to formally model security protocols using various abstract systems, and how to express and verify properties over such models. In addition, since verification by hand is cumbersome and often error-prone, we will study tools that can be used to automate the process. We will also see how this analysis, which is based mostly in abstract logic and theoretical computer science, fits into the engineering workflow of a protocol going from design to deployment, and what challenges arise during this process. While this course concentrates on the formal analysis and verification of security protocols, many of the techniques used here provide a good introduction to the field of formal verification as a whole.</p>
 
 <br>
 
@@ -29,9 +29,8 @@ Nowadays, we use the internet to do everything from chatting with friends to boo
 <p>
 This course is for you if 
 <ul>
-    <li><p>you have ever wondered how some messaging system like Signal or Whatsapp actually ensures that messages are "end-to-end encrypted", or</p></li>
-    <li><p>you worry about whether our circuitous and confusing banking systems *really* are as secure and correct as one would hope and expect, or</p></li>
-    <li><p>you want to learn more about how security protocols are developed and proved correct, or</p></li>
+    <li><p>you have ever wondered how messaging systems like Signal or Whatsapp ensure that messages are "end-to-end encrypted", or</p></li>
+    <li><p>you worry about whether banking systems <i>really</i> are as secure and correct as one would hope and expect, or</p></li>
     <li><p>you just have an interest in combining abstract tools like logic and automata theory with programming to solve real life problems.</p></li>
 </ul>
 </p>
@@ -41,14 +40,14 @@ This course is for you if
 <header>
     <h2><strong> Prerequisites </strong></h2>
 </header>
-<p> This course is structured such that the first few weeks will be devoted to very theoretical material, upon which the programming part of the course will heavily depend. Grasping the former will require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving induction. Students will also be required to be conversant with basic concepts of syntax/semantics, automata theory, and algorithms. A basic idea of complexity theory is also necessary; notions like reductions and NP-completeness should not seem unfamiliar. You must have taken the following courses at IIT Delhi:
+<p> The course involves concepts from automata theory, algorithms, logic, proof theory, and programming languages. Understanding the material will, therefore, require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving induction. Students will also be required to be conversant with basic concepts of syntax/semantics, automata, and algorithms. A very basic idea of complexity theory is also necessary; notions like reductions and NP-completeness should not seem unfamiliar. You should have taken the following courses at IIT Delhi:
 <ul>
     <li><p><a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202">COL202 (Discrete Mathematical Structures)</a>, and</p></li>
     <li><p><a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL352">COL352 (Introduction to Automata & Theory of Computation)</a>.</p></li>
 </ul>
 </p>
 <p>
-It will help if you have also taken COL703 (Logic for Computer Science), but this is not a hard prerequisite. If you do not fulfil the above prerequisites, but think you have the necessary background to attend this course, feel free to get in touch over email.
+It will help if you have also taken COL226 (Programming Languages) and/or COL703 (Logic for Computer Science), but this is not a hard prerequisite. If you do not fulfil the above prerequisites, but think you have the necessary background to attend this course, feel free to get in touch over email.
 </p>
 
 <br>
