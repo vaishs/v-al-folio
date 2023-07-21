@@ -7,9 +7,21 @@ importance: 1
 # category: work
 ---
 
-<header>
+<!-- <header>
 	<h2><strong>Course timings:</strong> <p style="display:inline">Tuesdays &amp; Fridays 1400 &ndash; 1550.</p></h2>
-</header>
+</header> -->
+
+<strong>
+		If you want to but cannot register (perhaps because you do not fulfil the system-required prerequisites), please fill out a General Request on the portal, and I will approve your registration.
+</strong>
+
+<hr style="border: 1px dashed; color: orange" />
+
+<strong>
+		The first class will be on Monday the 24th of July, in the 1530 &ndash; 1700 slot. Venue TBA. 
+</strong>
+
+<hr style="border: 1px dashed; color: orange" />
 
 <br>
 
