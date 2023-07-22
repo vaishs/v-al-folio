@@ -18,7 +18,7 @@ importance: 1
 <hr style="border: 1px dashed; color: orange" />
 
 <strong>
-		The first class will be on Monday the 24th of July, in the 1530 &ndash; 1700 slot. Venue TBA. 
+		The first class will be on Monday the 24th of July, in the 1530 &ndash; 1700 slot at SIT006. See you there!
 </strong>
 
 <hr style="border: 1px dashed; color: orange" />
