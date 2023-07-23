@@ -11,14 +11,16 @@ importance: 1
 	<h2><strong>Course timings:</strong> <p style="display:inline">Tuesdays &amp; Fridays 1400 &ndash; 1550.</p></h2>
 </header> -->
 
+<hr style="border: 1px dashed; color: orange" />
+
 <strong>
-		If you want to but cannot register (perhaps because you do not fulfil the system-required prerequisites), please fill out a General Request on the portal, and I will approve your registration.
+		The first class will be held at SIT006 on Monday the 24th of July, in the 3:30pm &ndash; 5:00pm slot. See you there!
 </strong>
 
 <hr style="border: 1px dashed; color: orange" />
 
 <strong>
-		The first class will be on Monday the 24th of July, in the 1530 &ndash; 1700 slot at SIT006. See you there!
+		If you want to but cannot register (perhaps because you do not fulfil the system-required prerequisites, which are different from the ones <a href="#prereq">here</a>), please fill out a General Request on the portal and mention me as the course coordinator. I will approve your request and the admin will eventually register you for the course.
 </strong>
 
 <hr style="border: 1px dashed; color: orange" />
@@ -57,7 +59,7 @@ This course is for you if
 <br>
 
 <header>
-    <h2><strong> Prerequisites </strong></h2>
+    <h2 id="prereq"><strong> Prerequisites </strong></h2>
 </header>
 <p> The course involves concepts from automata theory, algorithms, logic, proof theory, and programming languages. Understanding the material will, therefore, require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving induction. Students will also be required to be conversant with basic concepts of syntax/semantics, automata, and algorithms. A very basic idea of logic and of complexity theory is also necessary; notions like inference, reductions, and NP-completeness should not seem unfamiliar. You should have taken the following courses at IIT Delhi:
 <ul>
