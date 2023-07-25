@@ -71,7 +71,7 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
 <ul>
-		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf">Lecture 1, 24 July 2023</a></p></li>
+		<li><p><a target="_blank" href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf">Lecture 1, 24 July 2023</a></p></li>
 </ul>
 
 <br>
