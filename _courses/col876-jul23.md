@@ -7,15 +7,9 @@ importance: 1
 # category: work
 ---
 
-<!-- <header>
-	<h2><strong>Course timings:</strong> <p style="display:inline">Tuesdays &amp; Fridays 1400 &ndash; 1550.</p></h2>
-</header> -->
-
-<hr style="border: 1px dashed; color: orange" />
-
-<strong>
-		The first class will be held at SIT006 on Monday the 24th of July, in the 3:30pm &ndash; 5:00pm slot. See you there!
-</strong>
+<header>
+	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">Mondays &amp; Thursdays 1530 &ndash; 1700, in SIT006.</p></h2>
+</header>
 
 <hr style="border: 1px dashed; color: orange" />
 
@@ -74,9 +68,11 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 <br>
 
 <header>
-    <h2><strong> Reference Material </strong></h2>
+    <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
-<p> Mostly notes and papers, some snippets from other published material. TBA.</p>
+<ul>
+		<p><a href="/assets/pdf/lecnotes/col876-diw23/lec1.pdf">Lecture 1, 24 July 2023</a></p>
+</ul>
 
 <br>
 

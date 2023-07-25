@@ -8,9 +8,14 @@
     {%- else -%}
         {%- capture title -%}{{ site.title }}{%- endcapture -%}
     {%- endif -%}
-    {%- if page.title != "blank" and page.url != "/" -%}
+		{%- if page.title contains "COL" -%}
+				{%- assign junkyno = page.title | split: 'COL' -%}
+				{%- assign str = junkyno[1] | split: "<" -%}
+				{%- assign notit = 'COL' | append: str[0] -%}
+				{{ notit }}
+    {%- elsif page.title != "blank" and page.url != "/" -%}
         {{ title }} | {{ page.title }}
-    {%- else -%}
+		{%- else -%}
         {{ title }}
     {%- endif -%}
     </title>
