@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 rank: 3
 years: [2023, 2022, 2021, 2020, 2018, 2017, 2016, 2014, 2010, 2008]
-kinds: [1, 2, 3] 
+kinds: [0, 1, 2, 3] 
 sortby: "Y"
 nav: true
 ---
@@ -43,7 +43,14 @@ nav: true
 
 <div class="publications" id="div-by-kind" style="display:none">
 	{%- for k in page.kinds -%}
-						{%- if k == 1 -%}
+				{%- if k == 0 -%}
+					<div id={{k}}>
+						<h2 class="year">Book Chapters<span class="fake-icon"><a><i id="bsec-toggle-{{k}}" onclick="closeyeardiv({{k}})" style="color:var(--global-divider-color)" class="fas fa-angle-down"></i></a></span></h2>
+						<div id="papers-{{k}}">
+								{%- bibliography -f papers -q @*[kind=Chapter]* -%}
+						</div>
+					</div>
+								{%- elsif k == 1 -%}
 									<div id={{k}}>
 										<h2 class="year">Journals<span class="fake-icon"><a><i id="bsec-toggle-{{k}}" onclick="closeyeardiv({{k}})" style="color:var(--global-divider-color)" class="fas fa-angle-down"></i></a></span></h2>
 										<div id="papers-{{k}}">
