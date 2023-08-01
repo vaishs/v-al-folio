@@ -70,10 +70,35 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 <header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
-<ul>
+<div class="table-responsive">
+<table class="table table-sm table-bordered">
+  <thead class="thead-dark">
+    <tr>
+      <th>Date</th>
+      <th>Slides</th>
+      <th>References (if any)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24 July, 2023</td>
+      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf" target="_blank">Lecture 1</a></p></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27 July, 2023</td>
+      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2</a></p></td>
+      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/normsub.pdf" target="_blank">Normalization and subterm property</a></p></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- <ul>
 		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf" target="_blank">Lecture 1, 24 July 2023</a></p></li>
 		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2, 27 July 2023</a></p></li>
-</ul>
+</ul> -->
+
 
 <br>
 
