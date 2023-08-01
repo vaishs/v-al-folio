@@ -72,6 +72,7 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 </header>
 <ul>
 		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf" target="_blank">Lecture 1, 24 July 2023</a></p></li>
+		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2, 27 July 2023</a></p></li>
 </ul>
 
 <br>
@@ -85,8 +86,9 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 <li> Assignments: 40% </li>
 <li> Project/Paper presentation: 50% </li>
 </ul>
-(Percentages subject to change)
 </p>
+<p> <strong> Audit policy: </strong> 40% pass.</p>
+
 
 <!-- For the project, two options exist:
 
