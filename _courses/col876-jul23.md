@@ -13,11 +13,11 @@ importance: 1
 
 <hr style="border: 1px dashed; color: orange" />
 
-<strong>
+<!-- <strong>
 		If you want to but cannot register (perhaps because you do not fulfil the system-required prerequisites, which are different from the ones <a href="#prereq">here</a>), please fill out a General Request on the portal and mention me as the course coordinator. I will approve your request and the admin will eventually register you for the course.
 </strong>
 
-<hr style="border: 1px dashed; color: orange" />
+<hr style="border: 1px dashed; color: orange" /> -->
 
 <br>
 
@@ -90,6 +90,11 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
       <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2</a></p></td>
       <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/normsub.pdf" target="_blank">Normalization and subterm property</a></p></td>
     </tr>
+		<tr>
+			<td>3 August, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec3.pdf" target="_blank">Lecture 3</a></p></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/quiz1-with-answers.pdf" target="_blank">Quiz 1 (with solutions)</a></p></td>
+		</tr>
   </tbody>
 </table>
 </div>
