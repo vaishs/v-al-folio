@@ -95,14 +95,24 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec3.pdf" target="_blank">Lecture 3</a></p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/quiz1-with-answers.pdf" target="_blank">Quiz 1 (with solutions)</a></p></td>
 		</tr>
+		<tr>
+			<td>7 August, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec4.pdf" target="_blank">Lecture 4</a></p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>10 August, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec5.pdf" target="_blank">Lecture 5</a></p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>14 August, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec6.pdf" target="_blank">Lecture 6</a></p></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/newns.pv" target="_blank">ProVerif code</a></p></td>
+		</tr>
   </tbody>
 </table>
 </div>
-
-<!-- <ul>
-		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf" target="_blank">Lecture 1, 24 July 2023</a></p></li>
-		<li><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2, 27 July 2023</a></p></li>
-</ul> -->
 
 
 <br>
