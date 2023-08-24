@@ -103,13 +103,28 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 		<tr>
 			<td>10 August, 2023</td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec5.pdf" target="_blank">Lecture 5</a></p></td>
-			<td></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/appliedpi.pdf" target="_blank">Notes on the applied-pi calculus</a></p></td>
 		</tr>
 		<tr>
 			<td>14 August, 2023</td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec6.pdf" target="_blank">Lecture 6</a></p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>17 August, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec7.pdf" target="_blank">Lecture 7</a></p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/newns.pv" target="_blank">ProVerif code</a></p></td>
 		</tr>
+		<tr>
+			<td>21 August, 2023</td>
+			<td><p>Applied-pi Calculus Review</p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>24 August, 2023</td>
+			<td><p>ProVerif Review</p></td>
+			<td></td>
+		</tr>		
   </tbody>
 </table>
 </div>
