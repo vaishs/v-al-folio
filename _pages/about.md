@@ -10,7 +10,7 @@ profile:
   image: me.jpg
   imgalt: Test alt
   address: >
-    <p>424 Block IIA Bharti Building</p>
+    <p>421 Block IIA Bharti Building</p>
     <p>Indian Institute of Technology</p>
     <p>Hauz Khas, New Delhi 110 016.</p>
     <p>011-26591292</p>
