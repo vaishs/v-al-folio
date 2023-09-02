@@ -9,7 +9,7 @@ last_name: Sundararajan
 email: vaishnavi@cse.iitd.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Vaishnavi Sundararajan's Website
-footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Built using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. &nbsp;
+footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Built using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. &nbsp; Icons by <a target="_blank" href="https://icons8.com">Icons8</a>.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: # jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
