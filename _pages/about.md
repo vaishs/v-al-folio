@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the Department of Computer Science &amp; Engineering at the Indian Institute of Technology Delhi. I am interested in applying formal methods and logic to various fields, primarily security.
+I am an Assistant Professor in the Department of Computer Science &amp; Engineering at the Indian Institute of Technology Delhi. I am interested in applying formal methods and logic to various fields, primarily security. I am also associated with the <a href="https://csia.iitd.ac.in" target="_blank">Centre of Excellence in Cyber Systems and Information Assurance (CSIA)</a>.
 
 I completed my PhD at <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a>, where I was advised by <a href="https://www.imsc.res.in/~jam/" target="_blank">R Ramanujam</a> and <a href="https://www.cmi.ac.in/~spsuresh" target="_blank">S P Suresh</a>. I worked on the formal modelling and verification of security protocols involving certification. After my PhD, I worked at <a href="https://www.cnrs.fr" target="_blank">CNRS (IRISA)</a>, <a href="https://www.ericsson.com/en/careers/research" target="_blank">Ericsson Research</a>, and the <a href="https://www.ucsc.edu" target="_blank">University of California Santa Cruz</a>.
 
