@@ -11,6 +11,29 @@ nav: true
 		<h2>Experience</h2>
 		<div class="item pb-5 pb-md-4">
 						<span class="resum item-label rounded-pill">
+						Apr 2023 &ndash; present
+				</span>
+				<a id="iitdpda" href="#iitdpd" data-toggle="collapse" aria-expanded="false" aria-controls="iitdpd" class="rounded-circle" style="color: #fff; background-color: var(--global-divider-color)" onclick="changeplus('iitdpda')">
+							<i id="iitdpdaicon" class="fas fa-plus"></i>
+				</a>
+				<div class="card pt-4 pt-md-0 rounded">
+						<div class="card-header" role="tab" id="iitdpd-head">
+								<span class="headtext">
+										Chandruka New Faculty Fellow &amp; Assistant Professor, IIT Delhi
+								</span>
+						</div>
+						<div id="iitdpd" class="collapse" role="tabpanel" aria-labelledby="iitdpd-head">
+								<div class="card-body">
+										<!-- <p class="m-0 desctext">
+											Worked on an algorithm for deciding the insecurity problem for security protocols with assertions.
+										</p> -->
+								</div>
+						</div>
+			</div>
+		</div>
+		<!-- Divider -->
+		<div class="item pb-5 pb-md-4">
+						<span class="resum item-label rounded-pill">
 						Jan 2023 &ndash; Mar 2023
 				</span>
 				<a id="cmipda" href="#cmipd" data-toggle="collapse" aria-expanded="false" aria-controls="cmipd" class="rounded-circle" style="color: #fff; background-color: var(--global-divider-color)" onclick="changeplus('cmipda')">
@@ -106,6 +129,14 @@ nav: true
 <div id="awards">
 	<h2>Awards</h2>
 		<ul>
+			<li>
+				<span>
+						<strong>Chandruka New Faculty Fellowship</strong>
+				</span>
+				<span>
+					(2023)
+				</span>
+			</li>
 			<li>
 				<span>
 						<strong>Best Paper Award, ICCA 2022</strong>

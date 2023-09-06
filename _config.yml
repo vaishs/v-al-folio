@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Vaishnavi's Home Page # the website title (if blank, full name will be used instead)
+title: Vaishnavi's Website # the website title (if blank, full name will be used instead)
 first_name: Vaishnavi
 middle_name: 
 last_name: Sundararajan
@@ -57,7 +57,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: vaishnavi-srajan
+linkedin_username: #vaishnavi-srajan
 scholar_userid: gGJ7qxUAAAAJ
 orcid_id: 0000-0002-5945-5208
 medium_username: # your Medium username
@@ -119,7 +119,7 @@ collections:
     output: true
     permalink: /courses/:path/
 
-news_limit: 2
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

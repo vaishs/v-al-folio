@@ -16,7 +16,7 @@ nav: true
 							Instructor.
 						</p></li>
 						<li><p>
-							<strong>Introduction to Introduction to Programming Workshop</strong> [<a href="https://www.youtube.com/watch?v=Y7YSqVIyBvA&list=PLRog3t0AgDpR7fdhjgL3GFwnnVFEZ5I09" target="_blank">Youtube playlist</a>; <a href="https://discord.gg/dHaS5BRgas" target="_blank">Discord server</a> ]<br>
+							<strong>Introduction to Introduction to Programming Workshop</strong> [<a href="https://www.youtube.com/watch?v=Y7YSqVIyBvA&list=PLRog3t0AgDpR7fdhjgL3GFwnnVFEZ5I09" target="_blank">Youtube playlist</a>; <a href="https://discord.gg/dHaS5BRgas" target="_blank">Discord server</a>]<br>
 							June 2022 &ndash; present, University of California Santa Cruz/online.<br>
 							Instructor.
 						</p></li>
