@@ -147,12 +147,12 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 		</tr>
 		<tr>
 			<td>25 September, 2023</td>
-			<td>More about multiset rewriting and Tamarin</p></td>
+			<td><p>More about multiset rewriting and Tamarin</p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/try.spthy" target="_blank">Tamarin Code</a></p></td>
 		</tr>
 		<tr>
 			<td>28 September, 2023</td>
-			<td>Some more Tamarin</p></td>
+			<td><p>Some more Tamarin</p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/ns-toy.spthy" target="_blank">Tamarin Code</a></p></td>
 		</tr>
   </tbody>
