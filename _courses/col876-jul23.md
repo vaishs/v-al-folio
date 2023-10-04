@@ -124,7 +124,37 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 			<td>24 August, 2023</td>
 			<td><p>ProVerif Review</p></td>
 			<td></td>
-		</tr>		
+		</tr>	
+		<tr>
+			<td>28 August, 2023</td>
+			<td><p>Review &amp; discussion</p></td>
+			<td></td>
+		</tr>	
+		<tr>
+			<td>31 August, 2023</td>
+			<td><p>Lecture 8, Undecidability of the secrecy problem</p></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/undec-2count.pdf" target="_blank">Notes</a></p></td>
+		</tr>
+		<tr>
+			<td>4 September, 2023</td>
+			<td><p>Assignment 1 Review</p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>18 September, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec9.pdf" target="_blank">Lecture 9</a></p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>25 September, 2023</td>
+			<td>More about multiset rewriting and Tamarin</p></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/try.spthy" target="_blank">Tamarin Code</a></p></td>
+		</tr>
+		<tr>
+			<td>28 September, 2023</td>
+			<td>Some more Tamarin</p></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/ns-toy.spthy" target="_blank">Tamarin Code</a></p></td>
+		</tr>
   </tbody>
 </table>
 </div>
