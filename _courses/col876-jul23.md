@@ -155,6 +155,26 @@ These courses are not a hard prerequisite. If you do not fulfil the above prereq
 			<td><p>Some more Tamarin</p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/ns-toy.spthy" target="_blank">Tamarin Code</a></p></td>
 		</tr>
+		<tr>
+			<td>9 October, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec10.pdf" target="_blank">Lecture 10</a>, Constraint satisfaction</p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>12 October, 2023</td>
+			<td><p>Guest lecture by Mr. Karl Normann, Ericsson Research</p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>16 October, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec11.pdf" target="_blank">Lecture 11</a>, Computational soundness (part 1)</p></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>19 October, 2023</td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec12.pdf" target="_blank">Lecture 12</a>, Computational soundness (part 2)</p></td>
+			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/comp-sound.pdf" target="_blank">Original paper</a></p></td>
+		</tr>
   </tbody>
 </table>
 </div>

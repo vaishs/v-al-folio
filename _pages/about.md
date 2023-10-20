@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Chandruka New Faculty Fellow and Assistant Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Delhi. I am also associated with the <a href="https://csia.iitd.ac.in" target="_blank">Center of Excellence in Cyber Systems and Information Assurance (CSIA)</a>. I am interested in applying formal methods and logic to various fields, primarily security.
+I am a Chandruka New Faculty Fellow and Assistant Professor in the <a href="www.cse.iitd.ac.in" target="_blank">Department of Computer Science and Engineering</a> at the <a href="www.iitd.ac.in" target="_blank">Indian Institute of Technology Delhi</a>. I am also associated with the <a href="https://csia.iitd.ac.in" target="_blank">Center of Excellence in Cyber Systems and Information Assurance (CSIA)</a>. I am interested in applying formal methods and logic to various fields, primarily security.
 
 I completed my PhD at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a>, where I was advised by <a href="https://www.imsc.res.in/~jam/" target="_blank">R Ramanujam</a> and <a href="https://www.cmi.ac.in/~spsuresh" target="_blank">S P Suresh</a>. I worked on the formal modelling and verification of security protocols involving certification. After my PhD, I worked at <a href="https://www.cnrs.fr" target="_blank">CNRS (IRISA)</a>, <a href="https://www.ericsson.com/en/careers/research" target="_blank">Ericsson Research</a>, and <a href="https://www.ucsc.edu" target="_blank">UC Santa Cruz</a>.
 
