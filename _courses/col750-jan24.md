@@ -173,4 +173,5 @@ It will help if you have taken <a href="https://www.cse.iitd.ac.in/cse/newcurric
 <li> Project: 20% </li>
 </ul>
 </p>
-<p> <strong> Audit policy: </strong> B grade or above, with at least 80% in the first quiz.</p>
+<p> <strong> Audit policy: </strong> B- or above, with at least 80% in the first quiz.</p>
+<p> <strong> Pass criterion for credit: </strong> 40% or above, with at least 80% in the first quiz.</p>
