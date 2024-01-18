@@ -4,4 +4,4 @@ date: 2024-01-12 12:00:00+0530
 inline: true
 ---
 
-I’m co-teaching COL226 (Programming Languages) with <a href="https://www.cse.iitd.ac.in/~sanjiva/" target="_blank">Prof. Sanjiva Prasad</a> in the Holi semester in 2024.
+I’m co-teaching COL226 (Programming Languages) with <a href="https://www.cse.iitd.ac.in/~sanjiva/" target="_blank">Prof. Sanjiva Prasad</a> this semester.
