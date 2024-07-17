@@ -11,9 +11,14 @@ nav: true
 		</header>
 		<ul style="text-align:left">
 						<li><p>
-							<strong>COL750: Foundations of Automatic Verification</strong> [<a href="../courses/col750-jan24" target="_blank">Course page</a>]<br>
-							January 2024 &ndash; May 2024, IIT Delhi.<br>
+							<strong>COL703: Logic for Computer Science</strong> [<a href="../courses/col703-jul24" target="_blank">Course page</a>]<br>
+							July 2024 &ndash; Nov 2024, IIT Delhi.<br>
 							Instructor.
+						</p></li>
+						<li><p>
+							<strong>COL226: Programming Languages
+							January 2024 &ndash; May 2024, IIT Delhi.<br>
+							Co-instructor with <a href="https://www.cse.iitd.ac.in/~sanjiva/" target="_blank">Prof. Sanjiva Prasad</a>.
 						</p></li>
 						<li><p>
 							<strong>COL876: Special Topics in Formal Methods</strong> [<a href="../courses/col876-jul23" target="_blank">Course page</a>]<br>
