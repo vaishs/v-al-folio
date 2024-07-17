@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-12 12:00:00+0530
+date: 2023-07-27 12:00:00+0530
 inline: true
 ---
 
-I’m co-teaching COL226 (Programming Languages) with <a href="https://www.cse.iitd.ac.in/~sanjiva/" target="_blank">Prof. Sanjiva Prasad</a> this semester.
+Our work on analyzing the EDHOC protocol was published in the CCIS book series by Springer. Access it <a href="https://doi.org/10.1007/978-3-031-36840-0_11" target="_blank">here</a>.
