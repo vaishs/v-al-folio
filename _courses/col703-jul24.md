@@ -54,7 +54,8 @@ importance: 1
 			<li><p>Major: 40%. The syllabus for the major exam will include everything covered in the course.</p></li>
 			<li><p>Quizzes: 15&ndash;20%. There will be some surprise quizzes conducted in class at various points during the semester. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
 			<li><p>In-class participation, attendance etc: 0&ndash;5%.</p></li>
-			<li><p>"A few of my favourite things": 0&ndash;10% <strong>Bonus</strong>.</p></li>
+			<li><p>Pedagogical experiment surveys: 0&ndash;5% <strong>Bonus</strong>.</p></li>
+			<li><p>"A few of my favourite things": 0&ndash;5% <strong>Bonus</strong>.</p></li>
 	</ul>
 </p>
 
