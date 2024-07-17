@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COL03 - Logic for Computer Science
+title: COL703 &ndash; Logic for Computer Science
 description: July 2024 &ndash; November 2024
 # img: assets/img/12.jpg
 importance: 1
