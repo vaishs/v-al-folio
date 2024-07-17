@@ -18,4 +18,5 @@ Here is a selection of professional and mentoring activities I have been involve
 	<li><p><a href="https://womenscenter.ucsc.edu/get-involved/mint-gallery-page.html" target="_blank">MINT Community, Womxn's Centre, UC Santa Cruz</a>: Mentor (2021 &ndash; 2022)</p></li>
 	<li><p>UMIAA Mentorship Program <a href="http://alumnus.alumni.umich.edu/um-club-india-mentorship/" target="_blank">[Magazine article]</a>: Mentor (2019 &ndash; 2020)</p></li>
 	<li><p><a href="https://www.womentechmakers.com" target="_blank">Women Techmakers Community</a>: Member (2016 &ndash; present)</p></li>
+
 </ul>
