@@ -25,7 +25,7 @@ importance: 1
     <h2> <strong>What is this course about, and why should I take it?</strong> </h2>
 </header>
 
-<p>Logicians will often tell you that the primary raison d'&ecirc;tre of logic is to systematically evaluate arguments for deductive validity, or something equally abstruse along those lines. So why should you, a computer scientist, bother with logic at all? Because, as anyone who has ever written a program beyond "Hello, world!" knows, writing code is hard. Writing <em>good</em> code is even harder, and this starts even before we have written any code at all! Are you sure that what you <em>think</em> you want is really what you want? Will your code actually work? How reasonable are the assumptions you have made along the way? These are questions that logic can help you think about in a systematic way.</p>
+<p>Logicians will often tell you that the primary raison d'être of logic is to systematically evaluate arguments for deductive validity, or something equally abstruse along those lines. So why should you, a computer scientist, bother with logic at all? Because, as anyone who has ever written a program beyond "Hello, world!" knows, writing code is hard. Writing <em>good</em> code is even harder, and this starts even before we have written any code at all! Are you sure that what you <em>think</em> you want is really what you want? Will your code actually work? How reasonable are the assumptions you have made along the way? These are questions that logic can help you think about in a systematic way.</p>
 
 <p>The objective of this course is to learn fundamental ideas that help us create abstract models of systems in the real world, so we can then ensure that they behave as they should. This course will essentially cover concepts related to how to model complex systems abstractly while making good choices, as well as how to reason about these systems automatically, with a view to formal verification.
 </p>
@@ -38,7 +38,7 @@ importance: 1
 <p> This fundamental material covered in this course is fairly abstract and theoretical, and will therefore require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving various kinds of induction. There will also be some programming involved to implement various concepts. You should have taken <strong>at least one</strong> of the following courses (or equivalents thereof):
 <ul>
 		<li><p><a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL106" target="_blank">COL106 (Data Structures & Algorithms)</a>.</p></li>
-    <li><p><a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202" target="_blank">COL202 (Discrete Mathematical Structures)</a>, and</p></li>
+    <li><p><a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202" target="_blank">COL202 (Discrete Mathematical Structures)</a></p></li>
 </ul>
 </p>
 
@@ -51,16 +51,16 @@ importance: 1
 	<ul>
 			<li><p>Assignments: 20%. We will follow a graceful degradation policy: For every day that you use beyond the indicated deadline, you lose 20% of marks for that assignment -- if you submit anything later than 5 days past the deadline, it will not be evaluated.</p></li>
 			<li><p>Minor: 20%. No re-minor will be conducted. If you miss the minor for a medical reason (with appropriate documentation produced within one week of the minor), the major marks will be scaled up accordingly.</p></li> 
-			<li><p>Major: 40%. The syllabus for the major exam will include everything covered in the course.<p></li>
+			<li><p>Major: 40%. The syllabus for the major exam will include everything covered in the course.</p></li>
 			<li><p>Quizzes: 15&ndash;20%. There will be some surprise quizzes conducted in class at various points during the semester. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
-			<li><p>In-class participation, attendance etc: 0&ndash;5%
-			<li><p>Pedagogical experiment participation: 5% <strong>Bonus</strong>
+			<li><p>In-class participation, attendance etc: 0&ndash;5%.</p></li>
+			<li><p>"A few of my favourite things": 0&ndash;10% <strong>Bonus</strong>.</p></li>
 	</ul>
 </p>
 
-<p>Audit pass needs at least 60% overall, including at least 10% out of the 15&ndash;20% earmarked for quizzes.</p>
+<p>Audit pass needs at least a B- overall, including at least 10% out of the 15&ndash;20% earmarked for quizzes.</p>
 	
-<p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism, collaborating on gradable items where explicitly disallowed etc. etc. -- see <a href="https://t.ly/jACWG" target="_blank">here</a> for more examples) will summarily result in an F grade, or in case of audit, an NF, and potentially further disciplinary action.</p>
+<p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism, collaborating on gradable items where explicitly disallowed etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> for more examples) will summarily result in an F grade, or in case of audit, an NF, and potentially further disciplinary action.</p>
 
 <!-- <header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
@@ -176,17 +176,3 @@ importance: 1
 
 
 <br> -->
-
-<header>
-    <h2><strong> Evaluation Policy </strong></h2>
-</header>
-<p>
-<ul>
-<li> In-class participation and quizzes: 20% </li>
-<li> Assignments: 40% </li>
-<li> Mid-term exam: 20% </li>
-<li> Project: 20% </li>
-</ul>
-</p>
-<p> <strong> Audit policy: </strong> B- or above, with at least 80% in the first quiz.</p>
-<p> <strong> Pass criterion for credit: </strong> 40% or above, with at least 80% in the first quiz.</p>
