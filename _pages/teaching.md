@@ -16,7 +16,7 @@ nav: true
 							Instructor.
 						</p></li>
 						<li><p>
-							<strong>COL226: Programming Languages
+							<strong>COL226: Programming Languages</strong>
 							January 2024 &ndash; May 2024, IIT Delhi.<br>
 							Co-instructor with <a href="https://www.cse.iitd.ac.in/~sanjiva/" target="_blank">Prof. Sanjiva Prasad</a>.
 						</p></li>
