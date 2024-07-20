@@ -63,6 +63,14 @@ importance: 1
 	
 <p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism, collaborating on gradable items where explicitly disallowed etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> for more examples) will summarily result in an F grade, or in case of audit, an NF, and potentially further disciplinary action.</p>
 
+<header>
+	<h2><strong> Reference material </strong></h2>
+</header>
+<p>
+	We will follow notes presented in class, for the most part. Notes will be uploaded here. An overall external reference for much of the course can be found <a href="https://www.logicmatters.net/ifl/" target="_blank">here</a>.
+</p>
+
+
 <!-- <header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
