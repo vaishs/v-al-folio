@@ -67,8 +67,13 @@ importance: 1
 	<h2><strong> Reference material </strong></h2>
 </header>
 <p>
-	We will follow notes presented in class, for the most part. Notes will be uploaded here. An overall external reference for much of the course can be found <a href="https://www.logicmatters.net/ifl/" target="_blank">here</a>.
+	We will follow notes presented in class, for the most part, which will be uploaded here. Some external references for much of the course are listed below (caveat emptor: notation used in these notes/books might significantly differ from the ones used in class).
 </p>
+	<ul> 
+		<li><p><a href="https://www.logicmatters.net/ifl/" target="_blank">Introduction to Formal Logic</a>, by Peter Smith</p></li>
+		<li><p><a href="https://archive.org/details/formallogicitssc0000jeff_d0z0/" target="_blank">Formal Logic: Its Scope and Limits</a>, by Richard C. Jeffrey (also available in the IIT library)</p></li>
+		<li><p><a href="https://www.cse.iitd.ac.in/~sak/courses/ilcs/2020-21/ilcs.pdf" target="_blank">Hyper-notes for Logic in Computer Science</a>, by Prof. S. Arun-Kumar</p></li>
+	</ul>
 
 
 <!-- <header>
