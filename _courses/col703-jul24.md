@@ -77,7 +77,7 @@ importance: 1
 	</ul>
 </p>
 
-<!-- <header>
+<header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
 <div class="table-responsive">
@@ -91,11 +91,18 @@ importance: 1
   </thead>
   <tbody>
     <tr>
-      <td>24 July, 2023</td>
-      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf" target="_blank">Lecture 1</a></p></td>
-      <td></td>
+      <td>22 July, 2024</td>
+      <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
+      <td>
+						<p>Suggested follow-up reading material: 
+								<ul>
+										<li><p><a href="https://archive.org/details/ladyortigeran00smul" target="_blank">The Lady or the Tiger</a>, by <a href="https://en.wikipedia.org/wiki/Raymond_Smullyan" target="_blank">Raymond Smullyan</a></p></li>
+										<li><p><a href="https://douxnet.weebly.com/uploads/2/0/4/1/20418601/raymond_m._smullyan-to_mock_a_mockingbird_and_other_logic_puzzles__including__an_amazing_adventure_in_combinatory_logic-knopf_1985.pdf" target="_blank">To Mock A Mockingbird</a>, also by Raymond Smullyan</p></li>
+								</ul>
+						</p>
+				</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>27 July, 2023</td>
       <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2</a></p></td>
       <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/normsub.pdf" target="_blank">Normalization and subterm property</a></p></td>
@@ -184,10 +191,10 @@ importance: 1
 			<td>19 October, 2023</td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec12.pdf" target="_blank">Lecture 12</a>, Computational soundness (part 2)</p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/comp-sound.pdf" target="_blank">Original paper</a></p></td>
-		</tr>
+		</tr> -->
   </tbody>
 </table>
 </div>
 
 
-<br> -->
+<br>
