@@ -102,16 +102,17 @@ importance: 1
 						</p>
 				</td>
     </tr>
-    <!-- <tr>
-      <td>27 July, 2023</td>
-      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2</a></p></td>
-      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/normsub.pdf" target="_blank">Normalization and subterm property</a></p></td>
+    <tr>
+      <td>25 July, 2024</td>
+      <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0b.pdf" target="_blank">Sets, functions, and relations</a></p></td>
+      <td>
+						<p>Suggested follow-up reading material: 
+								<ul>
+										<li><p>Chapters 4 and 8 of <a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank">Mathematics for Computer Science</a>, by Eric Lehman, F Thomas Leighton, and Albert R Meyer</p></li>
+								</ul>
+						</p>
+				</td>
     </tr>
-		<tr>
-			<td>3 August, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec3.pdf" target="_blank">Lecture 3</a></p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/quiz1-with-answers.pdf" target="_blank">Quiz 1 (with solutions)</a></p></td>
-		</tr>
 		<tr>
 			<td>7 August, 2023</td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec4.pdf" target="_blank">Lecture 4</a></p></td>
