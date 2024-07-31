@@ -113,87 +113,21 @@ importance: 1
 						</p>
 				</td>
     </tr>
-		<tr>
-			<td>7 August, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec4.pdf" target="_blank">Lecture 4</a></p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>10 August, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec5.pdf" target="_blank">Lecture 5</a></p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/appliedpi.pdf" target="_blank">Notes on the applied-pi calculus</a></p></td>
-		</tr>
-		<tr>
-			<td>14 August, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec6.pdf" target="_blank">Lecture 6</a></p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>17 August, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec7.pdf" target="_blank">Lecture 7</a></p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/newns.pv" target="_blank">ProVerif code</a></p></td>
-		</tr>
-		<tr>
-			<td>21 August, 2023</td>
-			<td><p>Applied-pi Calculus Review</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>24 August, 2023</td>
-			<td><p>ProVerif Review</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>28 August, 2023</td>
-			<td><p>Review &amp; discussion</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>31 August, 2023</td>
-			<td><p>Lecture 8, Undecidability of the secrecy problem</p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/undec-2count.pdf" target="_blank">Notes</a></p></td>
-		</tr>
-		<tr>
-			<td>4 September, 2023</td>
-			<td><p>Assignment 1 Review</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>18 September, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec9.pdf" target="_blank">Lecture 9</a></p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>25 September, 2023</td>
-			<td><p>More about multiset rewriting and Tamarin</p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/try.spthy" target="_blank">Tamarin Code</a></p></td>
-		</tr>
-		<tr>
-			<td>28 September, 2023</td>
-			<td><p>Some more Tamarin</p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/ns-toy.spthy" target="_blank">Tamarin Code</a></p></td>
-		</tr>
-		<tr>
-			<td>9 October, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec10.pdf" target="_blank">Lecture 10</a>, Constraint satisfaction</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>12 October, 2023</td>
-			<td><p>Guest lecture by Mr. Karl Normann, Ericsson Research</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>16 October, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec11.pdf" target="_blank">Lecture 11</a>, Computational soundness (part 1)</p></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>19 October, 2023</td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec12.pdf" target="_blank">Lecture 12</a>, Computational soundness (part 2)</p></td>
-			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/comp-sound.pdf" target="_blank">Original paper</a></p></td>
-		</tr> -->
-  </tbody>
+  <tr>
+    <td>29 July, 2024</td>
+    <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and Induction</a></p></td>
+    <td>
+				<p>Suggested follow-up reading material: 
+						<ul>
+								<li><p><a href="https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/mathematical-induction.pdf" target="_blank">Introductory notes on Mathematical Induction</a> by Mary Barnes and Sue Gordon</p></li>
+						</ul>
+						<ul>
+								<li><p>Section 14 in Naive Set theory by Paul Halmos, PDF found <a href="https://github.com/matheusgirola/Halmos-Naive-Set-Theory-OCR-LaTeX-Reedition" target="_blank">here</a> </p></li>
+						</ul>
+				</p>
+		</td>
+  </tr>
+	</tbody>
 </table>
 </div>
 
