@@ -115,7 +115,7 @@ importance: 1
     </tr>
   <tr>
     <td>29 July, 2024</td>
-    <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and Induction</a></p></td>
+    <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
     <td>
 				<p>Suggested follow-up reading material: 
 						<ul>
@@ -127,6 +127,12 @@ importance: 1
 				</p>
 		</td>
   </tr>
+ <tr>
+   <td>1 August, 2024</td>
+   <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec2.pdf" target="_blank">Propositional logic</a></p></td>
+   <td>
+	</td>
+ </tr>
 	</tbody>
 </table>
 </div>
