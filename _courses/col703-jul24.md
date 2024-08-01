@@ -84,17 +84,17 @@ importance: 1
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
-      <th>Date</th>
+      <th style="width:150px; text-align:center">Date</th>
       <th>Slides</th>
-      <th>References (if any)</th>
+      <th>References and suggested follow-up reading (if any)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>22 July, 2024</td>
-      <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
+      <td style="text-align: center; vertical-align: middle;">22 July, 2024</td>
+      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
       <td>
-						<p>Suggested follow-up reading material: 
+						<p>
 								<ul>
 										<li><p><a href="https://archive.org/details/ladyortigeran00smul" target="_blank">The Lady or the Tiger</a>, by <a href="https://en.wikipedia.org/wiki/Raymond_Smullyan" target="_blank">Raymond Smullyan</a></p></li>
 										<li><p><a href="https://douxnet.weebly.com/uploads/2/0/4/1/20418601/raymond_m._smullyan-to_mock_a_mockingbird_and_other_logic_puzzles__including__an_amazing_adventure_in_combinatory_logic-knopf_1985.pdf" target="_blank">To Mock A Mockingbird</a>, also by Raymond Smullyan</p></li>
@@ -103,10 +103,10 @@ importance: 1
 				</td>
     </tr>
     <tr>
-      <td>25 July, 2024</td>
-      <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0b.pdf" target="_blank">Sets, functions, and relations</a></p></td>
+      <td style="text-align: center; vertical-align: middle;">25 July, 2024</td>
+      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0b.pdf" target="_blank">Sets, functions, and relations</a></p></td>
       <td>
-						<p>Suggested follow-up reading material: 
+						<p>
 								<ul>
 										<li><p>Chapters 4 and 8 of <a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank">Mathematics for Computer Science</a>, by Eric Lehman, F Thomas Leighton, and Albert R Meyer</p></li>
 								</ul>
@@ -114,10 +114,10 @@ importance: 1
 				</td>
     </tr>
   <tr>
-    <td>29 July, 2024</td>
-    <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
+    <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
+    <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
     <td>
-				<p>Suggested follow-up reading material: 
+				<p>
 						<ul>
 								<li><p><a href="https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/mathematical-induction.pdf" target="_blank">Introductory notes on Mathematical Induction</a> by Mary Barnes and Sue Gordon</p></li>
 						</ul>
@@ -128,10 +128,9 @@ importance: 1
 		</td>
   </tr>
  <tr>
-   <td>1 August, 2024</td>
-   <td><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec2.pdf" target="_blank">Propositional logic</a></p></td>
-   <td>
-	</td>
+   <td style="text-align: center; vertical-align: middle;">1 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec2.pdf" target="_blank">Propositional logic</a></p></td>
+   <td></td>
  </tr>
 	</tbody>
 </table>
