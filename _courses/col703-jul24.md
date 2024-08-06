@@ -132,6 +132,11 @@ importance: 1
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec2.pdf" target="_blank">Propositional logic</a></p></td>
    <td></td>
  </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">5 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec3.pdf" target="_blank">Propositional logic (contd.)</a></p></td>
+   <td></td>
+ </tr>
 	</tbody>
 </table>
 </div>
