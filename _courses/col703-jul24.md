@@ -85,7 +85,7 @@ importance: 1
   <thead class="thead-dark">
     <tr>
       <th style="width:150px; text-align:center">Date</th>
-      <th>Slides</th>
+      <th style="width:200px; text-align:center">Slides</th>
       <th>References and suggested follow-up reading (if any)</th>
     </tr>
   </thead>
