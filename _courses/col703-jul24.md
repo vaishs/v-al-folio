@@ -137,6 +137,14 @@ importance: 1
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec3.pdf" target="_blank">Propositional logic (contd.)</a></p></td>
    <td></td>
  </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">8 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec4.pdf" target="_blank">More propositional logic</a></p></td>
+   <td>
+   	<p><a href="https://ideas.science.uu.nl/logex/#" target="_blank">Here</a> is a link where you can play around with equivalences and normal forms for various expressions. Make sure that you use the English language toggle on the top right if it loads in Dutch. In addition, most of the rules should be easy enough to figure out (they are identities we have covered in class). The only exception is the rule for Equivalence, which is: p &hArr; q iff (p &and; q) \/ (&not;p &and; &not;q).
+			</p>
+   </td>
+ </tr>
 	</tbody>
 </table>
 </div>
