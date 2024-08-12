@@ -145,6 +145,12 @@ importance: 1
 			</p>
    </td>
  </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">12 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec5.pdf" target="_blank">Resolution</a></p></td>
+   <td>
+   </td>
+ </tr>
 	</tbody>
 </table>
 </div>
