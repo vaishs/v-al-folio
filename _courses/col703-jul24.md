@@ -151,6 +151,12 @@ importance: 1
    <td>
    </td>
  </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">13 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec6.pdf" target="_blank">The Hilbert system</a></p></td>
+   <td>
+   </td>
+ </tr>
 	</tbody>
 </table>
 </div>
