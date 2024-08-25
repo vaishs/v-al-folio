@@ -157,6 +157,16 @@ importance: 1
    <td>
    </td>
  </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">22 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec7.pdf" target="_blank">Completeness for the Hilbert system</a></p></td>
+   <td>
+			<p><a href="../../assets/pdf/lecnotes/col703-diw24/ref/dtproofs.pdf">Here</a> is a list of proofs you should try to do using the Deduction Theorem. These are fairly fundamental statements and are often useful. Try to do the proofs in order, since some later ones might need you to invoke the ones that came prior.</p>
+			<br>
+   	<p><a href="https://ideas.science.uu.nl/logax/" target="_blank">Here</a> is a link where you can play around with proofs in the Hilbert system. Make sure that you use the English language toggle on the top right if it loads in Dutch. The three axioms are called A, B, and C. A and B are the same as our H1 and H2, but axiom C is taken to be (NOT p IMPLIES not q) IMPLIES (q IMPLIES p).
+			</p>
+   </td>
+ </tr>
 	</tbody>
 </table>
 </div>
