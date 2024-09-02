@@ -162,7 +162,6 @@ importance: 1
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec7.pdf" target="_blank">Completeness for the Hilbert system</a></p></td>
    <td>
 			<p><a href="../../assets/pdf/lecnotes/col703-diw24/ref/dtproofs.pdf" target="_blank">Here</a> is a list of proofs you should try to do using the Deduction Theorem. These are fairly fundamental statements and are often useful. Try to do the proofs in order, since some later ones might need you to invoke the ones that came prior.</p>
-			<br>
    	<p><a href="https://ideas.science.uu.nl/logax/" target="_blank">Here</a> is a link where you can play around with proofs in the Hilbert system. Make sure that you use the English language toggle on the top right if it loads in Dutch. The three axioms are called A, B, and C. A and B are the same as our H1 and H2, but axiom C is taken to be (NOT p IMPLIES not q) IMPLIES (q IMPLIES p).</p>
    </td>
  </tr>
@@ -171,11 +170,22 @@ importance: 1
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec8.pdf" target="_blank">Propositional logic: Wrap up</a></p></td>
    <td>
 			<p><a href="https://www.cs.ox.ac.uk/people/james.worrell/lecture08.pdf" target="_blank">This link</a> has an excellent write-up about the Compactness Theorem and the Graph Colouring application.</p>
-			<br>
    	<p><a href="www.murdle.com" target="_blank">Murdle</a> is an excellent, fun way to sharpen your logical inference skills. Try to code up today's Murdle in propositional logic! (You need to come up with the right propositions and the right connectives. This will often require some human meta-reasoning using the given clues.)
 			</p>
    </td>
  </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">31 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="https://microsoft.github.io/z3guide/playground/Freeform%20Editing/" target="_blank">Z3 Walkthrough</a></p></td>
+   <td>
+			<p>You can play around with other Z3 exercises <a href="https://systems-rg.github.io/wss23-logic-labs.html" target="_blank">here</a>. Z3 is a solver that primarily tries to solve the Satisfiability problem, which is <a href="https://en.wikipedia.org/wiki/Cook-Levin_theorem" target="_blank">known to be hard</a>. However, the problem is so common across subfields that enterprising computer scientists have come up with inventive ways to solve this problem anyway. Recommended reading related to SAT solving includes <a href="https://en.wikipedia.org/wiki/DPLL_algorithm" target="_blank">the DPLL algorithm</a> (which is related to Resolution) and <a href="https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning" target="_blank">Conflict-Driven Clause Learning</a> (which tries to "learn" a satisfying valuation for the given expression). Come talk to me if you're interested in learning more or working on extensions of any of these!
+			</p>
+   </td>
+ </tr>
+ <tr>
+   <td style="text-align: center; vertical-align: middle;">2 September, 2024</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec9.pdf" target="_blank">First-order logic</a></p></td>
+   <td></td>
 	</tbody>
 </table>
 </div>
