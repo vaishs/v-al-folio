@@ -191,7 +191,17 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle;">5 September, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec10.pdf" target="_blank">More first-order logic</a></p></td>
 	   <td></td>
-		</tr>
+	</tr>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">9 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p>Review lecture</p></td>
+	   <td></td>
+	</tr>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">19 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec11.pdf" target="_blank">FO: Truth and models</a></p></td>
+	   <td>Chapters 21 through 24 of Introduction to Formal Logic by Peter Smith contain many examples.</td>
+	</tr>
 	</tbody>
 </table>
 </div>

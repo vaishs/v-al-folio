@@ -8,12 +8,13 @@ subtitle: Chandruka New Faculty Fellow &amp; Assistant Professor in <a href="htt
 profile:
   align: right
   image: me.jpg
-  imgalt: Test alt
+  imgalt: Vaishnavi
   address: >
-    <p>421 Block IIA Bharti Building</p>
+    <p>412 Block IIA Bharti Building</p>
     <p>Indian Institute of Technology</p>
     <p>Hauz Khas, New Delhi 110 016.</p>
-    <p>011-26591292</p>
+    <p>(South office in the Verification Lab)</p>
+    <p>Tel: 011-26591292</p>
 
 news: true  # includes a list of news items # news limit in config.yml set to 1
 selected_papers: true # includes a list of papers marked as "selected={true}"
