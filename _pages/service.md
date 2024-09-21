@@ -10,6 +10,7 @@ nav: true
 Here is a selection of professional and mentoring activities I have been involved with. In addition, I have also reviewed for various conferences and journals over the years. 
 
 <ul style="text-align:left">
+	<li><p><a href="https://2025.splashcon.org/track/OOPSLA" target="_blank">SPLASH 2025 - OOPSLA</a>: PC Member</p></li>
 	<li><p><a href="https://conf.researchr.org/home/isec-2025" target="_blank">18th Innovations in Software Engineering Conference (ISEC 2025)</a>: PC Member</p></li>
 	<li><p><a href="https://logicindia.org/icla/icla2025/" target="_blank">11th Indian Conference on Logic and its Applications (ICLA 2025)</a>: PC Member</p></li>
 	<li><p><a href="https://iciss.isrdc.in" target="_blank">20th International Conference on Information Systems Security (ICISS 2024)</a>: PC Member</p></li>
