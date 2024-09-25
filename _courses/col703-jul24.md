@@ -203,7 +203,7 @@ importance: 1
 	   <td>Chapters 21 through 24 of Introduction to Formal Logic by Peter Smith contain many examples.</td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">19 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">23 September, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec12.pdf" target="_blank">FO: Normal forms</a></p></td>
 	   <td></td>
 	</tr>
