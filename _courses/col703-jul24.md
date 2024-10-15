@@ -225,6 +225,11 @@ importance: 1
 					<p>FO Resolution is often used in automated theorem proving. <a href="https://github.com/evhub/pyprover" target="_blank">Here</a> is a nice little implementation in Python. Caveat: Theorem proving using resolution is not complete (why not?), since the rule does not yield a complete proof system for FOL (unlike the PL resolution rule), so you might not be able to prove everything you might want to. </p>
 			</td>
 	</tr>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">14 October, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec16.pdf" target="_blank">FO completeness</a></p></td>
+	   <td></td>
+	</tr>
 	</tbody>
 </table>
 </div>
