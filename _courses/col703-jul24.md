@@ -241,7 +241,7 @@ importance: 1
 	   <td></td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">21 October, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">24 October, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec19.pdf" target="_blank">More natural deduction</a></p></td>
 	   <td>
 				<p><a href="../../assets/pdf/lecnotes/col703-diw24/ref/ndproofs.pdf" target="_blank">Here</a> is a list of proofs you should try to do using the natural deduction proof system.</p>
