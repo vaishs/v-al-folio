@@ -255,6 +255,11 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec20.pdf" target="_blank">First-order theories</a></p></td>
 	   <td></td>
 	</tr>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">4 November, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec21.pdf" target="_blank">More about First-order theories</a></p></td>
+	   <td></td>
+	</tr>
 	</tbody>
 </table>
 </div>
