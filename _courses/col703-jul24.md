@@ -269,6 +269,21 @@ importance: 1
 				</p> 
 	   </td>
 	</tr>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">11 November, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec23.pdf" target="_blank">Hoare logic</a></p></td>
+	   <td>
+					<p>
+							The original CACM article by Tony Hoare, which introduced Hoare logic can be found <a href="http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf" target="_blank">here</a>.
+						</p>
+					<p>
+						<a href="https://dl.acm.org/doi/pdf/10.1007/s00165-019-00501-3" target="_blank">This</a> is a fairly comprehensive survey about Hoare logic, written in 2019 to mark fifty years of the CACM article by Tony Hoare which originally introduced the logic. It gives some history of what had come before, and how Hoare logic applies to various kinds of systems one might want to develop and verify.
+						</p>
+	   	<p>
+						There are a couple of pedagogical tools one can use to learn Hoare logic better. One is <a href="https://haha.mimuw.edu.pl" target="_blank">the HAHA system</a>, developed at the University of Warsaw. Another, which helpfully has an in-browser version, is the <a href="https://formal.kastel.kit.edu/key/download/hoare/" target="_blank">KeY-Hoare</a> tool, developed by folks from Karlsruhe Institute of Technology, Chalmers University of Technology, and TU Darmstadt.
+				</p>
+	  </td>
+	</tr>
 	</tbody>
 </table>
 </div>
