@@ -284,6 +284,11 @@ importance: 1
 				</p>
 	  </td>
 	</tr>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">14 November, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec24.pdf" target="_blank">Hoare logic, more logic</a></p></td>
+	   <td></td>
+	</tr>
 	</tbody>
 </table>
 </div>
