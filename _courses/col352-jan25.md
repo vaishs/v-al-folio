@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">H slot: Mondays &amp; Wednesdays 1100 &ndash; 1150 &amp; Thursdays 1200 &ndash; 1250. Venue TBA.</p></h2>
+	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">H slot: Mondays &amp; Wednesdays 1100 &ndash; 1150, and Thursdays 1200 &ndash; 1250. Venue TBA.</p></h2>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />
