@@ -29,7 +29,7 @@ importance: 1
 <header>
     <h2 id="prereq"><strong> Prerequisites </strong></h2>
 </header>
-<p> This fundamental material covered in this course is fairly abstract and theoretical, and will therefore require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving various kinds of induction. Various discrete maths concepts like closures, cardinality, diagonalization etc. will also feature strongly, so students should be familiar with these. <a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202" target="_blank">COL202 (Discrete Mathematical Structures)</a> is a strict pre-requisite.
+<p> This fundamental material covered in this course is fairly abstract and theoretical, and will therefore require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving various kinds of induction. Various discrete maths concepts like closures, cardinality, diagonalization etc. will also feature strongly, so students should be familiar with these. The <a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202" target="_blank">COL202 (Discrete Mathematical Structures)</a> course is a strict prerequisite.
 </p>
 
 <br>
@@ -39,10 +39,9 @@ importance: 1
 </header>
 <p>
 	<ul>
-			<li><p>In-class quizzes: 15&ndash;20%. There will be some surprise quizzes conducted in class at various points during the semester. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
-			<li><p>Major quizzes: 20%. A handful of major quizzes will be conducted during the semester. These will be announced in advance. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
 			<li><p>Minor: 25%. No re-minor will be conducted. If you miss the minor for a medical reason (with appropriate documentation produced within one week of the minor), the major marks will be scaled up accordingly.</p></li> 
 			<li><p>Major: 35%. The syllabus for the major exam will include everything covered in the course.</p></li>
+			<li><p>Quizzes: 35&ndash;40%. There will be both scheduled and surprise quizzes conducted at various points during the semester. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
 			<li><p>Tutorial participation: 0&ndash;5%.</p></li>
 	</ul>
 </p>
