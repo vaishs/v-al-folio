@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COL352 &ndash; Introduction to Automata and Theory of Computation
+title: COL352 &ndash; Introduction to Automata &amp; Theory of Computation
 description: January 2025 &ndash; May 2025
 # img: assets/img/12.jpg
 importance: 1
@@ -15,7 +15,7 @@ importance: 1
 
 <br>
 
-<header>
+<!-- <header>
     <h2> <strong>What is this course about, and why should I take it?</strong> </h2>
 </header>
 
@@ -24,7 +24,7 @@ importance: 1
 <p>The objective of this course is to learn fundamental ideas that help us create abstract models of systems in the real world, so we can then ensure that they behave as they should. This course will essentially cover concepts related to how to model complex systems abstractly while making good choices, as well as how to reason about these systems automatically, with a view to formal verification.
 </p>
 
-<br>
+<br> -->
 
 <header>
     <h2 id="prereq"><strong> Prerequisites </strong></h2>
