@@ -58,9 +58,8 @@ importance: 1
 </p>
 <p>
 	<ul> 
-		<!-- <li><p><a href="https://www.logicmatters.net/ifl/" target="_blank">Introduction to Formal Logic</a>, by Peter Smith</p></li>
-		<li><p><a href="https://archive.org/details/formallogicitssc0000jeff_d0z0/" target="_blank">Formal Logic: Its Scope and Limits</a>, by Richard C. Jeffrey (also available in the IIT library)</p></li>
-		<li><p><a href="https://www.cse.iitd.ac.in/~sak/courses/ilcs/2020-21/ilcs.pdf" target="_blank">Hyper-notes for Logic in Computer Science</a>, by Prof. S. Arun-Kumar</p></li> -->
+		<li><p><a href="https://libcat.iitd.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=111085" target="_blank">Introduction to the theory of computation</a>, by Michael Sipser</p></li>
+		<li><p><a href="https://libcat.iitd.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=117762" target="_blank">Theory of computation</a>, by Dexter C. Kozen</p></li>
 	</ul>
 </p>
 
