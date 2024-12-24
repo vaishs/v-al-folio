@@ -46,9 +46,9 @@ importance: 1
 	</ul>
 </p>
 
-<p>Audit pass needs at least a B- overall, including at least 10% out of the 15&ndash;20% earmarked for quizzes.</p>
+<p>Audit pass needs at least a B- overall, including at least 25% out of the 35&ndash;40% earmarked for quizzes.</p>
 	
-<p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism, collaborating on gradable items where explicitly disallowed etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> for more examples) will summarily result in an F grade, or in case of audit, an NF, and potentially further disciplinary action. </p>
+<p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism, collaborating on gradable items where explicitly disallowed etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> and <a href="https://www.cse.iitd.ac.in/~sak/courses/general.html" target="_blank">here</a> for more examples) will summarily result in an F grade, or in case of audit, an NF, and potentially further disciplinary action. </p>
 
 <header>
 	<h2><strong> Reference material </strong></h2>
