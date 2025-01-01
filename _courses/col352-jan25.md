@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">H slot: Mondays &amp; Wednesdays 1100 &ndash; 1150, and Thursdays 1200 &ndash; 1250. Venue TBA.</p></h2>
+	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">H slot: Mondays &amp; Wednesdays 1100 &ndash; 1150, and Thursdays 1200 &ndash; 1250. Venue: LH108.</p></h2>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />
@@ -29,7 +29,7 @@ importance: 1
 <header>
     <h2 id="prereq"><strong> Prerequisites </strong></h2>
 </header>
-<p> This fundamental material covered in this course is fairly abstract and theoretical, and will therefore require some mathematical acumen -- students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving various kinds of induction. Various discrete maths concepts like closures, cardinality, diagonalization etc. will also feature strongly, so students should be familiar with these. The <a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202" target="_blank">COL202 (Discrete Mathematical Structures)</a> course is a strict prerequisite.
+<p> This fundamental material covered in this course is fairly abstract and theoretical, and will therefore require some mathematical acumen &mdash; students should, at the very least, be able to write and understand rigorous formal proofs, especially those involving various kinds of induction. Various discrete maths concepts like closures, cardinality etc. will also feature strongly, so students should be familiar with these as well. The <a href="https://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COL202" target="_blank">COL202 (Discrete Mathematical Structures)</a> course is a strict prerequisite.
 </p>
 
 <br>
@@ -41,8 +41,10 @@ importance: 1
 	<ul>
 			<li><p>Minor: 25%. No re-minor will be conducted. If you miss the minor for a medical reason (with appropriate documentation produced within one week of the minor), the major marks will be scaled up accordingly.</p></li> 
 			<li><p>Major: 35%. The syllabus for the major exam will include everything covered in the course.</p></li>
-			<li><p>Quizzes: 35&ndash;40%. There will be both scheduled and surprise quizzes conducted at various points during the semester. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
-			<li><p>Tutorial participation: 0&ndash;5%.</p></li>
+			<li><p>Quizzes: 35&ndash;40%. There will be both scheduled and surprise quizzes conducted at various points during the semester. The best n-1 out of n surprise quizzes will be considered. All scheduled quizzes will count towards the final grade. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
+			<li><p>Tutorial participation: 0&ndash;5%. </p></li>
+			<li><p>Initiative (bonus): 0&ndash;5%. </p></li>
+<!--Computed as floor(2*(a/b - number of visits))/2. b will be the maximum number of visits + 1. a will be fixed so that the points for even one visit is non-zero. -->
 	</ul>
 </p>
 
@@ -54,7 +56,7 @@ importance: 1
 	<h2><strong> Reference material </strong></h2>
 </header>
 <p>
-	We will follow notes presented in class, for the most part, which will be uploaded here. Some external references for much of the course are listed below (caveat emptor: notation used in these books might differ significantly from the ones used in class).
+	We will follow notes presented in class, for the most part, which will be uploaded here. Some external references for much of the course are listed below (caveat emptor: notation used in these books might differ significantly from that used in class).
 </p>
 <p>
 	<ul> 
