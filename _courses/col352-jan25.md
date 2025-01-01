@@ -43,7 +43,6 @@ importance: 1
 			<li><p>Major: 35%. The syllabus for the major exam will include everything covered in the course.</p></li>
 			<li><p>Quizzes: 35&ndash;40%. There will be both scheduled and surprise quizzes conducted at various points during the semester. The best n-1 out of n surprise quizzes will be considered. All scheduled quizzes will count towards the final grade. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
 			<li><p>Tutorial participation: 0&ndash;5%. </p></li>
-			<li><p>Initiative (bonus): 0&ndash;5%. </p></li>
 <!--Computed as floor(2*(a/b - number of visits))/2. b will be the maximum number of visits + 1. a will be fixed so that the points for even one visit is non-zero. -->
 	</ul>
 </p>
