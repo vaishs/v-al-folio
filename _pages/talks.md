@@ -79,9 +79,9 @@ nav: true
 			</ul>
 </div>
 
-<div class="talks">
+<!-- <div class="talks">
 			<h2 class="year">
-				Research Presentations 
+				Research Presentations
 					<span class="fake-icon">
 							<a href="#res" data-toggle="collapse" aria-expanded="true" aria-controls="res" style="color:var(--global-divider-color)" onclick="changearr('res-downar')">
 								<i id="res-downar" class="fas fa-angle-down"></i>
@@ -96,7 +96,7 @@ nav: true
 									<i class="far fa-file-pdf"></i>
 							</a>
 							<br>
-							<em>Poster presentation and 5-minute talk (CSF 2019)</em>, 
+							<em>Poster presentation and 5-minute talk (CSF 2019)</em>,
 							June 2019, <a href="https://web.stevens.edu/csf2019/index.html">CSF 2019</a>, Hoboken, NJ, USA.
 						</p></li>
 						<li><p>
@@ -165,4 +165,4 @@ nav: true
 							July 2013, <a href="https://fmindia.cmi.ac.in/update2013/program.php#vaishnavi">FM Update Meeting 2013</a>, Delhi, India.
 						</p></li>
 			</ul>
-</div>
+</div> -->
