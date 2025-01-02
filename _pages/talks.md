@@ -16,7 +16,7 @@ nav: true
 			</h2>
 			<ul id="inv" class="collapse show">
 				<li><p>
-						<strong></strong>
+						<strong>Proving Security Protocols Correct</strong>
 						&nbsp;
 						<a target="_blank" href="../assets/pdf/talks/ashoka24.pdf">
 								<i class="far fa-file-pdf"></i>
