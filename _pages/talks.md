@@ -7,7 +7,7 @@ nav: true
 ---
 <div class="talks">
 			<h2 class="year">
-				Invited Talks 
+				Selected Invited Talks 
 				<span class="fake-icon">
 						<a href="#inv" data-toggle="collapse" aria-expanded="true" aria-controls="inv" style="color:var(--global-divider-color)" onclick="changearr('talks-downar')">
 							<i id="talks-downar" class="fas fa-angle-down"></i>
@@ -15,6 +15,14 @@ nav: true
 				</span>
 			</h2>
 			<ul id="inv" class="collapse show">
+				<li><p>
+						<strong></strong>
+						&nbsp;
+						<a target="_blank" href="../assets/pdf/talks/ashoka24.pdf">
+								<i class="far fa-file-pdf"></i>
+						</a> <br>
+						November 2024, <a href="https://logic-society-delhi.github.io/events.html">Logic Society of Delhi talk</a>, Ashoka University, Sonepat, Haryana, India.
+				</p></li>
 					<li><p>
 							<strong>Better Safe than Sorry: Symbolic Verification for Security Protocols</strong>
 							&nbsp;
