@@ -64,43 +64,33 @@ importance: 1
 	</ul>
 </p>
 
-<!-- <header>
+<header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
+<div>
+	<p>The slides from the lectures can be found <a href="../../assets/pdf/lecnotes/notes.pdf" target="_blank">here</a>.</p>
+</div>	
 <div class="table-responsive">
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
       <th style="width:150px; text-align:center">Date</th>
-      <th style="width:200px; text-align:center">Slides</th>
-      <th>References and suggested follow-up reading (if any)</th>
+      <th style="width:200px; text-align:center">Material covered</th>
+      <th>Supplementary material (if any)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">22 July, 2024</td>
-      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
-      <td>
-						<p>
-								<ul>
-										<li><p><a href="https://archive.org/details/ladyortigeran00smul" target="_blank">The Lady or the Tiger</a>, by <a href="https://en.wikipedia.org/wiki/Raymond_Smullyan" target="_blank">Raymond Smullyan</a></p></li>
-										<li><p><a href="https://douxnet.weebly.com/uploads/2/0/4/1/20418601/raymond_m._smullyan-to_mock_a_mockingbird_and_other_logic_puzzles__including__an_amazing_adventure_in_combinatory_logic-knopf_1985.pdf" target="_blank">To Mock A Mockingbird</a>, also by Raymond Smullyan</p></li>
-								</ul>
-						</p>
-				</td>
+      <td style="text-align: center; vertical-align: middle;">2 January, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Preliminaries and introduction</p></td>
+      <td></td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">25 July, 2024</td>
-      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0b.pdf" target="_blank">Sets, functions, and relations</a></p></td>
-      <td>
-						<p>
-								<ul>
-										<li><p>Chapters 4 and 8 of <a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank">Mathematics for Computer Science</a>, by Eric Lehman, F Thomas Leighton, and Albert R Meyer</p></li>
-								</ul>
-						</p>
-				</td>
+      <td style="text-align: center; vertical-align: middle;">6 January, 2024</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Deterministic finite-state automata</p></td>
+      <td></td>
     </tr>
-  <tr>
+  <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
     <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
     <td>
@@ -275,10 +265,7 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle;">14 November, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec24.pdf" target="_blank">Hoare logic, more logic</a></p></td>
 	   <td></td>
-	</tr>
+	</tr> -->
 	</tbody>
 </table>
-</div> -->
-
-
-<br>
+</div>
