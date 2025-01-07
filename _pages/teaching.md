@@ -11,6 +11,11 @@ nav: true
 		</header>
 		<ul style="text-align:left">
 						<li><p>
+							<strong>COL352: Introduction to Automata and Theory of Computation</strong> [<a href="../courses/col352-jan25" target="_blank">Course page</a>]<br>
+							January 2025 &ndash; , IIT Delhi.<br>
+							Instructor.
+						</p></li>
+						<li><p>
 							<strong>COL703: Logic for Computer Science</strong> [<a href="../courses/col703-jul24" target="_blank">Course page</a>]<br>
 							July 2024 &ndash; Nov 2024, IIT Delhi.<br>
 							Instructor.
