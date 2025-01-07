@@ -68,7 +68,7 @@ importance: 1
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
 <div>
-	<p>The slides from the lectures can be found <a href="../../assets/pdf/lecnotes/col352-hol24/Nsotes.pdf" target="_blank">here</a>.</p>
+	<p>The slides from the lectures can be found <a href="../../assets/pdf/lecnotes/col352-hol24/Notes.pdf" target="_blank">here</a>.</p>
 </div>	
 <div class="table-responsive">
 <table class="table table-sm table-bordered">
