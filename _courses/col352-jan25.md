@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">H slot: Mondays &amp; Wednesdays 1100 &ndash; 1150, and Thursdays 1200 &ndash; 1250. Venue: LH108.</p></h2>
+	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">H slot: Mondays &amp; Wednesdays 1100 &ndash; 1150 (LH 108), and Thursdays 1200 &ndash; 1250 (LH 121).</p></h2>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />
@@ -42,7 +42,8 @@ importance: 1
 			<li><p>Minor: 25%. No re-minor will be conducted. If you miss the minor for a medical reason (with appropriate documentation produced within one week of the minor), the major marks will be scaled up accordingly.</p></li> 
 			<li><p>Major: 35%. The syllabus for the major exam will include everything covered in the course.</p></li>
 			<li><p>Quizzes: 35&ndash;40%. There will be both scheduled and surprise quizzes conducted at various points during the semester. The best n-1 out of n surprise quizzes will be considered. All scheduled quizzes will count towards the final grade. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
-			<li><p>Tutorial participation: 0&ndash;5%. </p></li>
+			<li><p>In-class tutorial questions: 0&ndash;5%. </p></li>
+			<li><p><strong>Bonus</strong>: Asking questions and participating on Piazza and participating in Q&A in the TA-run tutorials: 0&ndash; 5%. This incentivizes an intent to learn &mdash; for questions to receive a bonus, students must have tried the problem by themselves beforehand and be willing to engage in a discussion with the teaching staff. This bonus will only be added to the final total, and is computed as (100-(your total))/100 * (instances of participation)/5 * constant, with a choice of constant such that this value normalizes to a maximum of 5%. </p></li>
 <!--Computed as floor(2*(a/b - number of visits))/2. b will be the maximum number of visits + 1. a will be fixed so that the points for even one visit is non-zero. -->
 	</ul>
 </p>
@@ -65,30 +66,52 @@ importance: 1
 </p>
 
 <header>
+		<h2><strong>TAs &amp; Office Hours </strong></h2>
+<header>
+<p> I will have my office hours on Mon, Wed 2&ndash;3PM in my office (412 Bharti Building). <br> The TAs (listed below) will hold their office hours at the General Computing Lab (GCL, 507 Bharti Building).  
+	<ul>
+		<li><p>Raghav Ajmera (2021CS10562): Tue, Fri 4&ndash;5PM</p></li>
+		<li><p>Adithya Bijoy (2021CS0571): Tue, Fri 1&ndash;2PM </p></li>
+		<li><p>Vatsal Jingar (2020CS50449): Mon, Wed 12&ndash;1PM</p></li>
+		<li><p>Shreyash Satish Chikte (2024MCS2458): Mon, Wed 3&ndash;4PM</p></li>
+		<li><p>Ramanuj Goel (2020CS50437): Mon, Thu 2&ndash;3PM</p></li>
+		<li><p>Lakshay Saggi (2022CSZ8231): Wed, Thu 4&ndash;5PM</p></li>
+		<li><p>Utkarsh Sharma (2021CS10098): Thu, Fri 2&ndash;3PM</p></li>
+	</ul>
+</p>	
+	
+<header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
-<div>
-	<p>The slides from the lectures can be found <a href="../../assets/pdf/lecnotes/col352-hol24/Notes.pdf" target="_blank">here</a>.</p>
-</div>	
 <div class="table-responsive">
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
       <th style="width:150px; text-align:center">Date</th>
       <th style="width:200px; text-align:center">Material covered</th>
-      <th>Supplementary material (if any)</th>
+      <th>Slides and upplementary material (if any)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;">2 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Preliminaries and introduction</p></td>
-      <td></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/0.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">6 January, 2024</td>
       <td style="text-align: center; vertical-align: middle;"><p>Deterministic finite-state automata</p></td>
-      <td></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/1.pdf" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">8 January, 2024</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Regular languages</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/2.pdf" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">9 January, 2024</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <br><p>The tutorial sheet for Week 1 can be found <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">here</a>.</p></td>
     </tr>
   <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
