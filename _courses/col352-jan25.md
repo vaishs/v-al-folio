@@ -68,7 +68,7 @@ importance: 1
 <header>
 		<h2><strong>TAs &amp; Office Hours </strong></h2>
 <header>
-<p> I will have my office hours on Mon, Wed 2&ndash;3PM in my office (412 Bharti Building). <br> The TAs (listed below) will hold their office hours at the General Computing Lab (GCL, 507 Bharti Building).  
+<p> I will have my office hours on Mon, Thu 2&ndash;3PM in my office (412 Bharti Building). <br> The TAs (listed below) will hold their office hours at the General Computing Lab (GCL, 507 Bharti Building).  
 	<ul>
 		<li><p>Raghav Ajmera (2021CS10562): Tue, Fri 4&ndash;5PM</p></li>
 		<li><p>Adithya Bijoy (2021CS0571): Tue, Fri 1&ndash;2PM </p></li>
