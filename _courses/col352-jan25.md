@@ -71,7 +71,7 @@ importance: 1
 <p> I will have my office hours on Mon, Thu 2&ndash;3PM in my office (412 Bharti Building). <br> The TAs (listed below) will hold their office hours at the General Computing Lab (GCL, 507 Bharti Building).  
 	<ul>
 		<li><p>Raghav Ajmera (2021CS10562): Tue, Fri 4&ndash;5PM</p></li>
-		<li><p>Adithya Bijoy (2021CS0571): Tue, Fri 1&ndash;2PM </p></li>
+		<li><p>Adithya Bijoy (2021CS10571): Tue, Fri 1&ndash;2PM </p></li>
 		<li><p>Vatsal Jingar (2020CS50449): Mon, Wed 12&ndash;1PM</p></li>
 		<li><p>Shreyash Satish Chikte (2024MCS2458): Mon, Wed 3&ndash;4PM</p></li>
 		<li><p>Ramanuj Goel (2020CS50437): Mon, Thu 2&ndash;3PM</p></li>
