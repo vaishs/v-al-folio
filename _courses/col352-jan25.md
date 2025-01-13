@@ -70,13 +70,13 @@ importance: 1
 <header>
 <p> I will have my office hours on Mon, Thu 2&ndash;3PM in my office (412 Bharti Building). <br> The TAs (listed below) will hold their office hours at the General Computing Lab (GCL, 507 Bharti Building).  
 	<ul>
-		<li><p>Raghav Ajmera (2021CS10562): Tue, Fri 4&ndash;5PM</p></li>
-		<li><p>Adithya Bijoy (2021CS10571): Tue, Fri 1&ndash;2PM </p></li>
-		<li><p>Vatsal Jingar (2020CS50449): Mon, Wed 12&ndash;1PM</p></li>
+		<li><p>Raghav Ajmera (2021CS10562): Tue, Fri 4&ndash;5PM &emsp; Tut: Fri 6&ndash;7PM</p></li>
+		<li><p>Adithya Bijoy (2021CS10571): Tue, Fri 1&ndash;2PM &emsp; Tut: Wed 6&ndash;7PM</p></li>
+		<li><p>Vatsal Jingar (2020CS50449): Mon, Thu 12&ndash;1PM &emsp; Tut: Mon 6.30&ndash;7.30PM</p></li>
 		<li><p>Shreyash Satish Chikte (2024MCS2458): Mon, Wed 3&ndash;4PM</p></li>
-		<li><p>Ramanuj Goel (2020CS50437): Mon, Thu 2&ndash;3PM</p></li>
-		<li><p>Lakshay Saggi (2022CSZ8231): Wed, Thu 4&ndash;5PM</p></li>
-		<li><p>Utkarsh Sharma (2021CS10098): Thu, Fri 2&ndash;3PM</p></li>
+		<li><p>Ramanuj Goel (2020CS50437): Mon, Thu 2&ndash;3PM &emsp; Tut: Wed 6&ndash;7PM</p></li>
+		<li><p>Lakshay Saggi (2022CSZ8231): Wed, Thu 4&ndash;5PM &emsp; Tut: Wed 6&ndash;7PM</p></li>
+		<li><p>Utkarsh Sharma (2021CS10098): Thu, Fri 2&ndash;3PM &emsp; Tut: Fri 6&ndash;7PM</p></li>
 	</ul>
 </p>	
 	
@@ -112,6 +112,11 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;">9 January, 2024</td>
       <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <br><p>The tutorial sheet for Week 1 can be found <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">here</a>.</p></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">13 January, 2024</td>
+      <td style="text-align: center; vertical-align: middle;"><p>NFAs and DFAs are equivalent</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/4.pdf" target="_blank">Slides</a></td>
     </tr>
   <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
