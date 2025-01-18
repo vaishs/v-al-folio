@@ -118,6 +118,11 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>NFAs and DFAs are equivalent</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/4.pdf" target="_blank">Slides</a></td>
     </tr>
+    <tr>
+     <td style="text-align: center; vertical-align: middle;">15 January, 2024</td>
+     <td style="text-align: center; vertical-align: middle;"><p>Regular expressions</p></td>
+     <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/5.pdf" target="_blank">Slides</a></td>
+    </tr>
   <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
     <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
