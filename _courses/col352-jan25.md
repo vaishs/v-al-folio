@@ -111,7 +111,7 @@ importance: 1
     <tr>
       <td style="text-align: center; vertical-align: middle;">9 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <br><p>The tutorial sheet for Week 1 can be found <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">here</a>.</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">Tutorial sheet 1</a></p></td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">13 January, 2025</td>
@@ -137,6 +137,11 @@ importance: 1
      <td style="text-align: center; vertical-align: middle;">23 January, 2025</td>
      <td style="text-align: center; vertical-align: middle;"><p>Limitations of DFAs</p></td>
      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/8.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="https://iltis.cs.tu-dortmund.de/FoLa-WiSe2022-external/en/">This page</a> has an excellent compendium of tiny exercises you can try out to test your understanding of some of the material we cover in this course. Given the material we have covered so far, you should go through Part A. If you have ideas about extending/improving this webpage, come talk to me!</p></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">27 January, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Pumping lemma</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/9.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/2.pdf">Tutorial sheet 2</a></p></td>
     </tr>
   <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
