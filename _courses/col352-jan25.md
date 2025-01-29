@@ -62,6 +62,7 @@ importance: 1
 	<ul> 
 		<li><p><a href="https://libcat.iitd.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=111085" target="_blank">Introduction to the theory of computation</a>, by Michael Sipser</p></li>
 		<li><p><a href="https://libcat.iitd.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=117762" target="_blank">Theory of computation</a>, by Dexter C. Kozen</p></li>
+		<li><p>Automata and computability, by Dexter C. Kozen</p></li>
 	</ul>
 </p>
 
@@ -142,6 +143,11 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;">27 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Pumping lemma</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/9.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/2.pdf">Tutorial sheet 2</a></p></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">29 January, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Non-regular languages</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/10.pdf" target="_blank">Slides</a></td>
     </tr>
   <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
