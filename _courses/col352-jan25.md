@@ -154,6 +154,11 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>Context-free grammars</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/11.pdf" target="_blank">Slides</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">3 February, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Context-free languages</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/12.pdf" target="_blank">Slides</a></td>
+    </tr>
   <!-- <tr>
     <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
     <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
