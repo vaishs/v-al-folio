@@ -167,7 +167,7 @@ importance: 1
     <tr>
       <td style="text-align: center; vertical-align: middle;">10 February, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>More about pushdown automata</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/14.pdf" target="_blank">Slides</a></td> <br> <p> For details of how to show the equivalence between acceptance by empty stack and final state, see Supplementary Lecture E in Kozen's Automata and Computability. </p>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/14.pdf" target="_blank">Slides</a> <br> <p> For details of how to show the equivalence between acceptance by empty stack and final state, see Supplementary Lecture E in Kozen's Automata and Computability. </p></td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">12 February, 2025</td>
