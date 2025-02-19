@@ -177,7 +177,7 @@ importance: 1
     <tr>
       <td style="text-align: center; vertical-align: middle;">17 February, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Context-free = PDA-recognizable (part 1)</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/16.pdf" target="_blank">Slides</a></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/16.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/3.pdf">Tutorial sheet 3</a></p></td>
 							<!-- <br> <p> Arbitrary grammars can be converted to Greibach Normal Form by first converting to Chomsky Normal Form (see Theorem 2.9 in Sipser) and then applying a series of transformations. See <a href="https://www.geeksforgeeks.org/converting-context-free-grammar-greibach-normal-form/" target="_blank">here</a>. These normal forms come in very handy for certain parsing algorithms; see for example the famous <a href="https://en.wikipedia.org/wiki/CYK_algorithm" target="_blank">CYK algorithm</a>.</p> --> 
     </tr>
     <tr>
